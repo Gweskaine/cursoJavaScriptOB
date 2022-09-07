@@ -1,0 +1,14 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto JavaScript con node en OB",
+  "main": "index.js",
+  "author": "gweskaine",
+  "license": "MIT",
+  "scripts":{
+    "start": "node index.js ", 
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo", 
+      "test": "echo\"Error: no test specified\" && exit 1"
+  }
+}
+
